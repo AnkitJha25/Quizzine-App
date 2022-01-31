@@ -141,7 +141,7 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
             }
 
             R.id.btn_submit ->{
-                // TODO "implement btn submit"
+                // "implement btn submit"
                 if(mSelectedOptionPosition == 0){
                     myCurrentPosition++
 
